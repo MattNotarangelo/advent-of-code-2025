@@ -32,8 +32,6 @@ My solutions in Python ⭐
 | [24](https://adventofcode.com/2025/day/24) |       | [part_1.py](24/part_1.py) | [part_2.py](24/part_2.py) |
 | [25](https://adventofcode.com/2025/day/25) |       | [part_1.py](25/part_1.py) | [part_2.py](25/part_2.py) |
 
-To run daily code: `python3 01/main.py`. This runs the `part_1.py` and `part_2.py` files with the `sample_input.txt` input and confirms it matches against the `sample_output_part_1.txt` or `sample_output_part_2.txt` output. If the sample passes, then the `question_input.txt` input is used.
+To run day 1 code: `python3 01/main.py`.
 
-## External Dependencies
-
-External dependencies have been avoided where possible
+This runs the `part_1.py` and `part_2.py` files with the relevant `sample_input_part_{x}.txt` input and confirms it matches against the `sample_output_part_{x}.txt` output. If the sample passes, then the `question_input_part_{x}.txt` input is used. The sample must pass in order to run the question input.
