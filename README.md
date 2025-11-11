@@ -39,9 +39,9 @@ Fork this
 
 ## Getting started
 
-1. Copy template into a per-day folder (`cp -r template 01/`)
+1. Copy template into a per-day folder (eg. `cp -r template 01/` for day 1)
 2. Copy sample input, sample output, and question input into their respective files
-3. Write your solution in part\_{n}.py
+3. Write your solution in part_1.py and part_2.py
 4. Run with `python3 01/main.py`
 
 ## How the runner works
