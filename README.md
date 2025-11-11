@@ -20,6 +20,7 @@ Fork this
 | [12](https://adventofcode.com/2025/day/12) |       | [part_1.py](12/part_1.py) | [part_2.py](12/part_2.py) |
 
 ## File structure
+
 ```txt
 .
 ├─ runner.py           # helper function for running sample input
@@ -40,9 +41,11 @@ Fork this
 
 1. Copy template into a per-day folder (`cp -r template 01/`)
 2. Copy sample input, sample output, and question input into their respective files
-3. Write your solution in part_{n}.py
+3. Write your solution in part\_{n}.py
 4. Run with `python3 01/main.py`
 
 ## How the runner works
 
-This runs the `part_1.py` and `part_2.py` files with the relevant `sample_input_part_{x}.txt` input and confirms it matches against the `sample_output_part_{x}.txt` output. If the sample passes, then the `question_input_part_{x}.txt` input is used. The sample must pass in order to run the question input.
+This runs the `part_1.py` and `part_2.py` files with the relevant `sample_input_part_{x}.txt` input and confirms it matches against the `sample_output_part_{x}.txt` output. If the sample passes, then the program is run again with `question_input_part_{x}.txt` input. The sample must pass in order to run the question input.
+
+Your part\_{n}.py must have a `Solution` class with a `solve` method. This is the entrypoint
