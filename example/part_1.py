@@ -5,7 +5,7 @@ class Solution:
     def __init__(self):
         pass
 
-    def parse_input(self, s):
+    def parse_input(self, s: str):
         c1 = []
         c2 = []
         for i in s.strip().split("\n"):
@@ -15,7 +15,7 @@ class Solution:
 
         return c1, c2
 
-    def solve(self, s):
+    def solve(self, s: str):
         score = 0
 
         c1, c2 = self.parse_input(s)

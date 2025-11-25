@@ -5,5 +5,5 @@ class Solution:
     def __init__(self):
         pass
 
-    def solve(self, s):
+    def solve(self, s: str):
         pass
