@@ -7,5 +7,5 @@ from runner import runner
 
 input_dir = os.path.dirname(os.path.abspath(__file__))
 
-runner("1", part_1.Solution().solve, input_dir)
-runner("2", part_2.Solution().solve, input_dir)
+runner("1", part_1.Solution, input_dir)
+runner("2", part_2.Solution, input_dir)
