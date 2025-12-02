@@ -6,8 +6,8 @@ Fork this
 
 | Day                                        | Stars | Part 1                    | Part 2                    |
 | ------------------------------------------ | ----- | ------------------------- | ------------------------- |
-| [01](https://adventofcode.com/2025/day/1)  |       | [part_1.py](01/part_1.py) | [part_2.py](01/part_2.py) |
-| [02](https://adventofcode.com/2025/day/2)  |       | [part_1.py](02/part_1.py) | [part_2.py](02/part_2.py) |
+| [01](https://adventofcode.com/2025/day/1)  | ⭐⭐  | [part_1.py](01/part_1.py) | [part_2.py](01/part_2.py) |
+| [02](https://adventofcode.com/2025/day/2)  | ⭐⭐  | [part_1.py](02/part_1.py) | [part_2.py](02/part_2.py) |
 | [03](https://adventofcode.com/2025/day/3)  |       | [part_1.py](03/part_1.py) | [part_2.py](03/part_2.py) |
 | [04](https://adventofcode.com/2025/day/4)  |       | [part_1.py](04/part_1.py) | [part_2.py](04/part_2.py) |
 | [05](https://adventofcode.com/2025/day/5)  |       | [part_1.py](05/part_1.py) | [part_2.py](05/part_2.py) |

@@ -1,0 +1,23 @@
+# https://adventofcode.com/2025/day/02
+import re
+
+
+class Solution:
+    def __init__(self):
+        pass
+
+    def _parse_input(self, s: str) -> list:
+        ranges = s.strip().split(",")
+        return [i.split("-") for i in ranges]
+
+    def solve(self, s: str):
+        summed_ids = 0
+        parsed_input = self._parse_input(s)
+        for i in parsed_input:
+            lower, upper = i
+            for val in range(int(lower), int(upper) + 1, 1):
+                match = re.match("^(.+?)\\1+$", str(val))
+                if match:
+                    summed_ids += int(match[0])
+
+        return summed_ids
