@@ -8,10 +8,10 @@ Fork this
 | ------------------------------------------ | ----- | ------------------------- | ------------------------- |
 | [01](https://adventofcode.com/2025/day/1)  | ⭐⭐  | [part_1.py](01/part_1.py) | [part_2.py](01/part_2.py) |
 | [02](https://adventofcode.com/2025/day/2)  | ⭐⭐  | [part_1.py](02/part_1.py) | [part_2.py](02/part_2.py) |
-| [03](https://adventofcode.com/2025/day/3)  |       | [part_1.py](03/part_1.py) | [part_2.py](03/part_2.py) |
-| [04](https://adventofcode.com/2025/day/4)  |       | [part_1.py](04/part_1.py) | [part_2.py](04/part_2.py) |
-| [05](https://adventofcode.com/2025/day/5)  |       | [part_1.py](05/part_1.py) | [part_2.py](05/part_2.py) |
-| [06](https://adventofcode.com/2025/day/6)  |       | [part_1.py](06/part_1.py) | [part_2.py](06/part_2.py) |
+| [03](https://adventofcode.com/2025/day/3)  | ⭐⭐  | [part_1.py](03/part_1.py) | [part_2.py](03/part_2.py) |
+| [04](https://adventofcode.com/2025/day/4)  | ⭐⭐  | [part_1.py](04/part_1.py) | [part_2.py](04/part_2.py) |
+| [05](https://adventofcode.com/2025/day/5)  | ⭐⭐  | [part_1.py](05/part_1.py) | [part_2.py](05/part_2.py) |
+| [06](https://adventofcode.com/2025/day/6)  | ⭐⭐  | [part_1.py](06/part_1.py) | [part_2.py](06/part_2.py) |
 | [07](https://adventofcode.com/2025/day/7)  |       | [part_1.py](07/part_1.py) | [part_2.py](07/part_2.py) |
 | [08](https://adventofcode.com/2025/day/8)  |       | [part_1.py](08/part_1.py) | [part_2.py](08/part_2.py) |
 | [09](https://adventofcode.com/2025/day/9)  |       | [part_1.py](09/part_1.py) | [part_2.py](09/part_2.py) |
