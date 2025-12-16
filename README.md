@@ -12,11 +12,11 @@ Fork this
 | [04](https://adventofcode.com/2025/day/4)  | ⭐⭐  | [part_1.py](04/part_1.py) | [part_2.py](04/part_2.py) |
 | [05](https://adventofcode.com/2025/day/5)  | ⭐⭐  | [part_1.py](05/part_1.py) | [part_2.py](05/part_2.py) |
 | [06](https://adventofcode.com/2025/day/6)  | ⭐⭐  | [part_1.py](06/part_1.py) | [part_2.py](06/part_2.py) |
-| [07](https://adventofcode.com/2025/day/7)  |       | [part_1.py](07/part_1.py) | [part_2.py](07/part_2.py) |
-| [08](https://adventofcode.com/2025/day/8)  |       | [part_1.py](08/part_1.py) | [part_2.py](08/part_2.py) |
-| [09](https://adventofcode.com/2025/day/9)  |       | [part_1.py](09/part_1.py) | [part_2.py](09/part_2.py) |
+| [07](https://adventofcode.com/2025/day/7)  | ⭐⭐  | [part_1.py](07/part_1.py) | [part_2.py](07/part_2.py) |
+| [08](https://adventofcode.com/2025/day/8)  | ⭐⭐  | [part_1.py](08/part_1.py) | [part_2.py](08/part_2.py) |
+| [09](https://adventofcode.com/2025/day/9)  | ⭐⭐  | [part_1.py](09/part_1.py) | [part_2.py](09/part_2.py) |
 | [10](https://adventofcode.com/2025/day/10) |       | [part_1.py](10/part_1.py) | [part_2.py](10/part_2.py) |
-| [11](https://adventofcode.com/2025/day/11) |       | [part_1.py](11/part_1.py) | [part_2.py](11/part_2.py) |
+| [11](https://adventofcode.com/2025/day/11) | ⭐⭐  | [part_1.py](11/part_1.py) | [part_2.py](11/part_2.py) |
 | [12](https://adventofcode.com/2025/day/12) |       | [part_1.py](12/part_1.py) | [part_2.py](12/part_2.py) |
 
 ## File structure
